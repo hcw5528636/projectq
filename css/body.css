@@ -1,0 +1,162 @@
+#body{
+flex:8;width: 100%;
+    overflow-y: scroll;
+
+
+}
+#l1{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll1{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛1.jpg");
+
+}
+#lll1{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll2{
+height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll3{
+height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l2{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll4{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛2.jpg");
+}
+
+#lll2{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll5{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll6{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l3{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+
+#ll7{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛3.jpg");
+}
+
+#lll3{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll8{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll9{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+
+
+#l4{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll10{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛4.jpg");
+}
+
+#lll4{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll11{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll12{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l5{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll13{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛5.jpg");
+}
+
+#lll5{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll14{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll15{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l6 {
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll16{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛6.jpg");
+}
+
+#lll6{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll17{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll18{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l7{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll19{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛7.jpg");
+}
+
+#lll7{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll20{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll21{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l8{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll22{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛8.png");
+}
+
+#lll8{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll23{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll24{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}
+#l9{
+    height: 150px;width: 100%;display: flex;justify-content: flex-start;align-items: center;
+    border-radius: 10px;border: 3px solid gray;
+}
+#ll25{width: 200px; height: 140px;
+    background-position: center; background-size: cover; background-image: url("../img/比赛9.jpg");
+}
+
+#lll9{
+    height: 140px;display: flex; flex-flow: column; align-items: center;
+}
+#ll26{
+    height: 70px;width: 165px ;font-size: 15px;font-weight: 600;
+}
+#ll27{
+    height: 55px;width: 165px;font-size: 10px; color: darkgray;
+}

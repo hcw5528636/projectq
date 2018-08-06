@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 微软雅黑;
+
+}
+.border{
+    border: 1px solid crimson;
+}
+::-webkit-scrollbar {
+    display: none;
+}

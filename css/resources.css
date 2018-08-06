@@ -1,0 +1,135 @@
+#resources{
+    height: 210px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+#p1{display: flex;
+    height: 30px;
+    width: 100%;
+    background-color: darkgray; justify-content: flex-start; align-items: center;
+}
+#p2{ display: flex;
+    justify-content: flex-start;
+    align-items: center;width: 100%;
+    height: 85px;
+
+}
+#p3{ height: 85px;
+width: 100%;display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+#pp1{
+    height: 15px;width: 15px;margin: 10px;background-image: url("../img/游戏.svg"); background-size: cover; background-position: center;
+
+}
+#pp2{
+    height: 20px;width: 100px;text-align: center;
+}
+#p4{
+    display: flex;
+    height: 30px;
+    width: 100%;
+    background-color: darkgray; justify-content: flex-start; align-items: center;
+
+}
+#pp11{
+    height: 15px;width: 15px;margin: 10px;background-image: url("../img/游戏.svg"); background-size: cover; background-position: center;
+}
+#pp12{
+    height: 20px;width: 100px;text-align: center;
+}
+#pp3{   height: 50px; width: 15%;margin: 22px;display: flex;align-items: center; flex-flow: column;
+
+}
+#ppp1{
+    height: 36px;width: 80%;margin: 2px;background-image: url("../img/英雄.svg"); background-size: cover; background-position: center;
+
+}
+#ppp2{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+
+}
+#pp4{height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+
+}
+#pp5{
+    height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+
+}
+#pp6{
+    height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+}
+#pp7{
+    height: 50px; width: 15%;margin: 22px;display: flex;align-items: center; flex-flow: column;
+}
+#pp8{
+    height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+}
+#pp9{
+    height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+}
+#pp10{
+    height: 50px; width: 15%;margin: 15px;display: flex;align-items: center; flex-flow: column;
+}
+#ppp3{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/奖杯.svg"); background-size: cover; background-position: center;
+}
+#ppp4{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;}
+
+#ppp5{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/数据1.svg"); background-size: cover; background-position: center;
+}
+#ppp6{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+
+}
+#ppp7{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/榜单.svg"); background-size: cover; background-position: center;
+}
+#ppp8{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+}
+#ppp9{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/战队.svg"); background-size: cover; background-position: center;
+}
+#ppp10{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+}
+#ppp11{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/玩家.svg"); background-size: cover; background-position: center;
+}
+#ppp12{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+}
+#ppp13{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/旗子牛逼.svg"); background-size: cover; background-position: center;
+}
+#ppp14{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+}
+#ppp15{
+    height: 36px;width: 80%;margin: 2px;
+    background-image: url("../img/直播.svg"); background-size: cover; background-position: center;
+}
+#ppp16{
+    height: 10px; width: 80%; font-size: small; text-align: center;   Text-overflow:ellipsis;
+    White-space:nowrap;
+}

@@ -1,0 +1,56 @@
+#shiping{
+    overflow-y: scroll;
+    flex: 8;width: 100%;
+}
+#m1{ display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: darkgray;  align-items: center;
+
+}
+#m2{align-items: center;
+height: 200px;width: 100%;background-image: url("../img/直播1.png");background-size: cover;background-position: center;
+}
+#m3{align-items: center;
+height: 150px;width: 100%;display: flex;justify-content: center;
+}
+#m4{align-items: center;
+    height: 150px;width: 100%;display: flex;justify-content: center;
+}
+#m5{align-items: center;
+    height: 150px;width: 100%;display: flex;justify-content: center;
+}
+#m6{align-items: center;
+    height: 150px;width: 100%;display: flex;justify-content: center;
+}
+#mm1{
+    height: 40px;width: 40px;margin: 10px;
+    background-image: url("../img/盾牌.svg");background-position: center;background-size: cover;
+}
+#mm2{
+    flex: 8;color: whitesmoke;
+}
+#mm3{
+height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播2.png");
+}
+#mm4{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播3.png");
+}
+#mm5{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播4.png");
+}
+#mm6{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播5.png");
+}
+#mm7{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播6.png");
+}
+#mm8{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播7.png");
+}
+#mm9{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播8.png");
+}
+#mm10{
+    height: 150px;width: 50%;background-position: center;background-size: cover;background-image: url("../img/直播9.png");
+}

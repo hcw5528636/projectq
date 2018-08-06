@@ -1,0 +1,64 @@
+#tianti{
+    overflow: scroll;
+    flex: 8;width: 100%;
+}
+#v1{
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: darkgray; justify-content: center; align-items: center;
+
+}
+#vv1{
+    height: 40px;width: 40px;margin: 3px;
+    background-image: url("../img/人头1.svg");background-position: center;background-size: cover;align-items: center;
+}
+#vv2{
+    font-size: 26px;color: whitesmoke;align-items: center;
+}
+#v2{height: 40px;width: 100%;background-color: #212121; font-size: 20px;color: #9c27b0;align-items: center;
+
+}
+#v3{
+    height: 40px;width: 100%;background-color: rgba(11,4,4,0.58);font-size: 20px;color: cadetblue;align-items: center;
+
+}
+#v4{
+    height: 40px;width: 100%;background-color: #313131;font-size: 20px;color: #9c27b0;align-items: center;
+}
+#v5{height: 40px;width: 100%;background-color: #212121;font-size: 20px;color: cadetblue;align-items: center;
+
+}
+#v6{
+    height: 40px;width: 100%;background-color: rgba(11,4,4,0.58);font-size: 20px;color: #9c27b0;align-items: center;
+}
+#v7{
+    height: 40px;width: 100%;background-color: #313131;font-size: 20px;color: cadetblue;align-items: center;
+}
+#v8{height: 40px;width: 100%;background-color: #212121;font-size: 20px;color: #9c27b0;align-items: center;
+
+}
+#v9{
+    height: 40px;width: 100%;background-color: rgba(11,4,4,0.58);font-size: 20px;color: cadetblue;align-items: center;
+}
+#v10{
+    height: 40px;width: 100%;background-color: #313131;font-size: 20px;color: #9c27b0;align-items: center;
+}
+#v11{
+    height: 40px;width: 100%;background-color: #212121;font-size: 20px;color: cadetblue;align-items: center;
+}
+#v12{
+    height: 40px;width: 100%;background-color: rgba(11,4,4,0.58);font-size: 20px;color: #9c27b0;align-items: center;
+}
+#v13{
+    height: 40px;width: 100%;background-color: #313131;font-size: 20px;color: cadetblue;align-items: center;
+}
+#v14{height: 40px;width: 100%;background-color: #212121;font-size: 20px;color: #9c27b0;align-items: center;
+
+}
+#v15{
+    height: 40px;width: 100%;background-color: rgba(11,4,4,0.58);font-size: 20px;color: cadetblue;align-items: center;
+}
+#v16{
+    height: 40px;width: 100%;background-color: #313131;font-size: 20px;color: #9c27b0;align-items: center;
+}

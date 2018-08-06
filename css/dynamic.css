@@ -1,0 +1,335 @@
+#niubi{
+    height: 200px;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+
+    flex-direction: column;
+
+
+}
+#niubihead{
+    height: 30px;width: 100%;display: flex;
+
+    justify-content: flex-start;
+    align-items: center;
+
+}
+#aa1{
+    height: 20px; width:20px;
+    background-image: url("../img/人.svg");
+    background-size: cover;
+    background-position: center;
+
+}
+#aa2{
+    font-size: 13px;font-weight: 900;
+    margin: 5px;
+}
+#niubibody{
+    height: 120px;width: 100%;background-position: center;background-size: cover;
+    background-image: url("../img/tf.jpg");
+    opacity: .9; border-radius: 10px;
+}
+#niubibody:hover{
+    box-shadow:3px 3px 3px grey;
+    color: purple;}
+#qqq1{
+    height: 30px;
+    width: 100%;display: flex; justify-content: flex-start; align-items: center;
+}
+#www1{
+    height: 30px;width: 30px;border-radius: 50%;
+    background-position: center;background-size: cover;background-image: url("../img/sr.jpg");
+}
+#www2{
+    height: 26px;width: 100px;
+    font-size: 18px;font-weight: 300;color:yellow ;
+
+}
+#www3{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;align-items: center;
+    font-size: 18px;font-weight: 300;color:yellow ;
+
+}
+#qqq2{
+    display: flex;
+    flex: 1;
+    font-weight: 600;
+    font-size: 20px;
+    color:orange;
+
+
+}
+#zzz1{
+    height: 50px;width: 100%;display: flex;
+
+    justify-content: flex-start;
+    align-items: center;
+
+}
+#zzz2{ display: flex;flex: 1;
+    height: 50px;justify-content: flex-start;
+    align-items: center;font-weight: 900;
+}
+#zzz3{display: flex; flex: 1;
+    height: 50px;justify-content: flex-start;
+    align-items:center;  font-weight: 900;
+}
+#rrr1{
+    height: 36px;width: 36px;margin: 10px;background-image: url("../img/记事本.svg");
+    background-position: center; background-size: cover;
+
+}
+#rrr2{
+    height: 36px;width: 70%;
+    font-size: 14px;font-weight: 600;
+
+}
+#zzz2:hover{
+    box-shadow: 0px 30px 3px 3px grey;
+    color: purple;}
+#rrr3{
+    height: 36px;width: 36px;margin: 10px;background-image: url("../img/旗子.svg");
+    background-position: center; background-size: cover;
+}
+#rrr4{
+    height: 36px;width: 70%;
+    font-size: 14px;font-weight: 600;
+}
+#zzz3:hover{
+    box-shadow:0px 3px 0px 3px grey;
+    color: purple;}
+#dynamic{
+
+    width: 100%;
+    background-color: whitesmoke;
+    flex: 8;
+    overflow-y: scroll;
+
+    Text-overflow:ellipsis;
+    White-space:nowrap;
+
+}
+
+#r1{
+    height: 30px;width: 100%;display: flex;
+    justify-content: flex-start;align-items: center;
+}
+#rr1{
+    height: 20px; width:20px;
+    background-image: url("../img/人.svg");
+    background-size: cover;
+    background-position: center;
+
+}
+#rr2{ height: 20px;
+    font-size: 13px;font-weight: 900;
+    margin: 5px;display: flex;
+    flex: 1;
+}
+#q1{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+
+.r1{height: 36px;width: 36px; border-radius: 50%;
+    background-image: url("../img/苗期.jpg");background-size: cover;border: 2px solid gray;
+    background-position: center;
+}
+
+.r2{
+    height:36px ; flex: 1;font-size: 15px; align-items: center;
+
+
+}
+.r3{
+    height:36px ; flex: 1;
+    font-size: 15px; color: rgba(152,7,6,0.58);align-items: center;
+
+}
+.r7{
+    height:36px ; flex: 1;
+    font-size: 15px; color: yellowgreen;align-items: center;
+}
+.r4{
+    height: 40px;width: 40px;background-image: url("../img/pa.jpg");background-size: cover;
+    background-position: center;
+}
+
+.r5{height: 36px;width: 36px; border-radius: 50%;
+    background-image: url("../img/wu3.png");background-size: cover;border: 2px solid gray;
+    background-position: center;
+}
+
+
+
+.r8{
+    height: 40px;width: 40px;background-image: url("../img/3.jpg");background-size: cover;
+    background-position: center;
+}
+.r9{
+    height: 40px;width: 40px;background-image: url("../img/1.jpg");background-size: cover;
+    background-position: center;
+}
+.r10{
+    height: 40px;width: 40px;background-image: url("../img/5.png");background-size: cover;
+    background-position: center;
+}
+
+.r11{
+    height: 40px;width: 40px;background-image: url("../img/6.png");background-size: cover;
+    background-position: center;
+}
+.r12{
+    height: 40px;width: 40px;background-image: url("../img/7.png");background-size: cover;
+    background-position: center;
+}
+.r13{
+    height: 36px;width: 36px; border-radius: 50%;
+    background-image: url("../img/zhang2.png");background-size: cover;border: 2px solid gray;
+    background-position: center;
+}
+.r14{
+    height: 36px;width: 36px; border-radius: 50%;
+    background-image: url("../img/ji5.png");background-size: cover;border: 2px solid gray;
+    background-position: center;
+}
+.r15{
+    height: 36px;width: 36px; border-radius: 50%;
+    background-image: url("../img/jin1.png");background-size: cover;border: 2px solid gray;
+    background-position: center;
+}
+#q2{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q3{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q4{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q5{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q6{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q7{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q8{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q9{height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q10{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q11{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q12{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q13{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q14{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q15{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q16{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q17{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q18{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q19{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q20{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q21{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q22{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q23{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
+#q24{
+    height: 40px;width: 100%;
+    display: flex;justify-content: flex-start;
+    align-items: center;
+
+}
